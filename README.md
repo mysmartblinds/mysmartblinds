@@ -13,3 +13,6 @@ While running, the system is virtually silent.
 ## Device images
 
 <pre><img src="images/device_mounted.png" width="800px"></pre>
+
+## Donate
+If you would like to support the developer with a cup of coffee you can do that via [Paypal](https://www.paypal.com/donate/?hosted_button_id=XN85B8YSH7KBL)
