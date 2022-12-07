@@ -5,3 +5,11 @@ Almost everyone is using window blinds / rollos at the insides of windows. The d
 The system is a plug&play replacement for the existing pearl chain drive. Installation takes just a minute, configuration is super easy via Web browser. The wireless connection is standard wifi and IP based, thus one can use any end device like smartphone, PC... After installation and configuration one can use a klick in any browser, any voice assistent like Siri or daily time based setting to move the blinds up or down.
 
 While running, the system is virtually silent.
+
+## Software images
+
+<pre><img src="images/controlcenter.jpeg" width="100px">&#9;&#9;<img src="images/timer.jpeg" width="100px">&#9;&#9;<img src="images/setup.jpeg" width="100px"></pre>
+
+## Device images
+
+<pre><img src="images/device_mounted.png" width="800px"></pre>
