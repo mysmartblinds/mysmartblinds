@@ -8,7 +8,7 @@ While running, the system is virtually silent.
 
 ## Software images
 
-<pre><img src="images/controlcenter.jpeg" width="100px">&#9;&#9;<img src="images/timer.jpeg" width="100px">&#9;&#9;<img src="images/setup.jpeg" width="100px"></pre>
+<pre><img src="images/controlcenter.jpeg" width="200px">&#9;&#9;<img src="images/timer.jpeg" width="200px">&#9;&#9;<img src="images/setup.jpeg" width="200px"></pre>
 
 ## Device images
 
