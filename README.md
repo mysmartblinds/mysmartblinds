@@ -14,5 +14,50 @@ While running, the system is virtually silent.
 
 <pre><img src="images/device_mounted.png" width="800px"></pre>
 
+## Key features
+
+- Intuitive web frontend
+- System works without any internet connection, but you need a NTP server in order to have the right time
+- Plug&Play installation
+- System is 5 Volt based
+- Micro USB connector used for power connection
+- Low power mode (great when powered with batteries)
+- whisper quiet while running
+- Left/Right mounting mode (Software switch)
+- Precise prositioning
+- Standard hardware
+- Easy to integrate in voice assistents
+
+## Communication
+
+- Standard wireless LAN connection based on 802.11
+- Simple wifi setup via web frontend (DHCP or fixed IP)
+- Internet independent, NO connection needed
+- Only a ntp server is needed for time sync, this can be your local router, then the system never leaves your LAN
+
+## Functions
+
+- Easy setup for all functions
+- Everything is controlable via integrated web frontend
+- Timer for up/down movement for every weekday
+- Sleep Mode for ultra low energy consumption (only timer function is active)
+- Updates via web frontend
+- Factory reset via web frondend or hardware button
+
+## Control
+
+- Via web interface
+- Easy integration in any home automation system (http links)
+- Voice assistents like Siri
+
+## Extras
+
+- Easy adapt with any blind system
+
+
+## Whats needed?
+
+
+
 ## Donate
 If you would like to support the developer with a cup of coffee you can do that via [Paypal](https://www.paypal.com/donate/?hosted_button_id=XN85B8YSH7KBL)
