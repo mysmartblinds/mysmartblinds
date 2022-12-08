@@ -8,7 +8,7 @@ While running, the system is virtually silent.
 
 ## Software images
 
-<pre><img src="images/controlcenter.jpeg" width="200px">&#9;&#9;<img src="images/timer.jpeg" width="200px">&#9;&#9;<img src="images/setup.jpeg" width="200px"></pre>
+<pre><img src="images/controlcenter.png" width="190px">&#9;<img src="images/timer.png" width="190x">&#9;<img src="images/setup.png" width="190px">&#9;<img src="images/network.png" width="190px"></pre>
 
 ## Device images
 
@@ -64,7 +64,7 @@ While running, the system is virtually silent.
 - OPTIONAL - Mini stepper motor controller: https://de.aliexpress.com/item/33053153215.html?spm=a2g0o.order_list.order_list_main.26.5e615c5fiKW1g3&gatewayAdapt=glo2deu
 - Any 5v power supply with micro usb connector
 
-## Installation and setup ##
+## Installation and setup
 
 [Installation guide](https://github.com/danieldownload/mysmartrollo/wiki/Installation-guide)
 
