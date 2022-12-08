@@ -57,11 +57,19 @@ While running, the system is virtually silent.
 
 ## Whats needed?
 
-- For each blind a ESP-32 micro controler board, a 28BYJ-48 5vdc stepper motor with controller and some dupond cables are needed
+- For each blind a ESP-32 micro controler board, a 28BYJ-48 5vdc stepper motor with controller, some dupond cables and a 5v power supply with micro usb connector are needed
 
 - ESP-32: https://amzn.to/3uuozcW
 - Stepper motor with controller: https://amzn.to/3FgGmcW
 - OPTIONAL - Mini stepper motor controller: https://de.aliexpress.com/item/33053153215.html?spm=a2g0o.order_list.order_list_main.26.5e615c5fiKW1g3&gatewayAdapt=glo2deu
+- Any 5v power supply with micro usb connector
+
+## Installation and setup ##
+
+[Installation guide](https://github.com/danieldownload/mysmartrollo/wiki/Installation-guide)
+
+
+
 
 
 ## Donate
