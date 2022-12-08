@@ -13,7 +13,7 @@ While running, the system is virtually silent.
 ## Device images
 
 <pre><img src="images/device_mounted.png" width="800px"></pre>
-<pre><img src="images/dev1.jpeg" width="200px">&#9;<img src="images/dev2.jpeg" width="200px"></pre>
+<pre><img src="images/dev1.jpeg" width="300px">&#9;&#9;<img src="images/dev2.jpeg" width="300px"></pre>
 
 ## Key features
 
