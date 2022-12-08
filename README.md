@@ -52,7 +52,7 @@ While running, the system is virtually silent.
 
 ## Extras
 
-- Easy adapt with any blind system
+- Easy to adapt with any blind system
 
 
 ## Whats needed?
