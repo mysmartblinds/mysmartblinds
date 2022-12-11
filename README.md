@@ -65,6 +65,10 @@ While running, the system is virtually silent.
 - OPTIONAL - Mini stepper motor controller: https://amzn.to/3Bu9mfZ
 - Any 5v power supply with micro usb connector
 
+## Connection schematic
+
+
+
 ## Installation and setup
 
 [Installation guide](https://github.com/danieldownload/mysmartrollo/wiki/Installation-guide)
