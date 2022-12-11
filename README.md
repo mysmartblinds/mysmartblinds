@@ -62,7 +62,7 @@ While running, the system is virtually silent.
 
 - ESP-32: https://amzn.to/3uuozcW
 - Stepper motor with controller: https://amzn.to/3FgGmcW
-- OPTIONAL - Mini stepper motor controller: https://de.aliexpress.com/item/33053153215.html?spm=a2g0o.order_list.order_list_main.26.5e615c5fiKW1g3&gatewayAdapt=glo2deu
+- OPTIONAL - Mini stepper motor controller: https://amzn.to/3Bu9mfZ
 - Any 5v power supply with micro usb connector
 
 ## Installation and setup
