@@ -67,7 +67,9 @@ While running, the system is virtually silent.
 
 ## Connection schematic
 
+The following pictures shows the wireing diagram for the basic controller, which mostly comes with the stepper motor.
 
+<pre><img src="schematics/schematic.png" width="400px"></pre>
 
 ## Installation and setup
 
