@@ -1,77 +1,78 @@
 # Willkommen bei mysmartrollo - lass Dich von der Sonne wecken
 
-Almost everyone is using window blinds / rollos at the insides of windows. The default method to move blinds like that up and down is via a pearl chain. That can be annoying in everyday use, especially if there are curtains, beds or tables close to the window. I created a system, which can automate your blinds or rollos, easy manually control is of course possible as well.
+Fast jeder hat Innenrollos in der Wohnung, Sichtschutzrollos, Verdunkelungsrollos, Doppelrollos... Standardmäßig wird so ein Rollo über eine Perlenkette runtergelassen und hochgezogen. Im täglichen Gebrauch ist es nervig, speziell wenn man lange 
+Gardienen, ein Bett oder einen Tisch davor hat. Aus diesem Grund habe ich ein System erstellt, welches meine vorhanden einfachen Rollos automatisiert.
 
-The system is a plug&play replacement for the existing pearl chain drive. Installation takes just a minute and the configuration is done super easy via web browser. The wireless connection is standard wifi and IP based, thus one can use any end device like smartphone, PC... After installation and configuration one can use a klick in any browser, any voice assistent like Siri or daily time based setting to move the blinds up or down.
+Das System ersetzt den Perlenkettenantrieb per Plug&Play mit dem neuen Antrieb. Die Installation dauert 1 Minute. Die Einrichtung erfolgt komplett per Webbrowser und ist super einfach. Das Endgerät ist dabei egal, solange es eine Wlan Verbindung 
+unterstützt, ein Smartphone ist dafür ideal. Nach Abschluss der Einrichtung können die Rollos per Klick am Smartphone, per Sprachsteuerung oder einfach zeitgesteuert runter und hoch gefahren werden.
 
-While running, the system is virtually silent.
 
-## Software images
+## Software
 
 <pre><img src="images/controlcenter.png" width="190px">&#9;<img src="images/timer.png" width="190x">&#9;<img src="images/setup.png" width="190px">&#9;<img src="images/network.png" width="190px"></pre>
 
-## Device images
+## Antrieb
 
 <pre><img src="images/device_mounted.png" width="800px"></pre>
 <pre><img src="images/dev1.jpeg" width="300px">&#9;&#9;<img src="images/dev2.jpeg" width="300px"></pre>
 
-## Key features
+## Hauptmerkmale
 
-- Intuitive web frontend
-- System works without any internet connection, but you need a NTP server in order to have the right time
-- Plug&Play installation
-- System is 5 Volt based
-- Micro USB connector used for power connection
-- Low power mode (great when powered with batteries)
-- whisper quiet while running
-- Left/Right mounting mode (Software switch)
-- Precise prositioning
-- Standard hardware
-- Easy to integrate in voice assistents
+- Intuitives Web Frontend
+- System funktioniert ohne Internetverbindung, jedoch ist ein NTP Server für die korrekte Zeit nötig (z.B. FritzBox)
+- Plug&Play Installation
+- System ist 5 Volt basierend
+- Micro USB Anschluss zur Stromversorgung
+- Low Power Modus (ideal wenn der Antrieb mit Batterien genutzt wird)
+- flüsterleise im Betrieb
+- Links/Rechts Modus (Software Schalter)
+- präzise Positionierung
+- Standard Hardware
+- Einfache Intergration in Sprachassistenten
 
-## Communication
+## Kommunikation
 
-- Standard wireless LAN connection based on 802.11
-- Simple wifi setup via web frontend (DHCP or fixed IP)
-- Internet independent, NO connection needed
-- Only a ntp server is needed for time sync, this can be your local router, then the system never leaves your LAN
+- Standard Wireless LAN auf Basis von 802.11
+- Einfaches Wlan Setup via Web frontend (DHCP oder fixe IP)
+- Internet unabhängig
+- Nur eine NTP Server wird für Zeiteinstellung benötigt, das kann der lokale Router sein
 
-## Functions
+## Funktionen
 
-- Easy setup for all functions
-- Everything is controlable via integrated web frontend
-- Timer for up/down movement for every weekday
-- Sleep Mode for ultra low energy consumption (only timer function is active)
-- Updates via web frontend
-- Factory reset via web frondend or hardware button
+- Einfache Setup per Web Frontend für alle Funktionen
+- Steuerung über jeden Browser, Endgeräteunabhängig
+- Timer für tägliche Runter/Hoch Einstellung
+- Schlaf Modus für Low Power Betrieb
+- Updates per Web Frontend
+- Factory reset per Web Wrondend oder Hardware Taster
 
-## Control
+## Steuerung
 
-- Via web interface
-- Easy integration in any home automation system (http links)
-- Voice assistents like Siri
+- Via Ieb Interface
+- Einfache Integration in Heimautomationsysteme (http links)
+- Sprachassistenten wie z.B. Siri
 
 ## Extras
 
-- Easy to adapt with any blind system
+- Einfache Verwendung und Anpassung an jedes Innenrollo
 
 
-## Whats needed?
+## Was wird benötigt?
 
-- For each blind a ESP-32 micro controler board, a 28BYJ-48 5vdc stepper motor with controller, some dupond cables and a 5v power supply with micro usb connector are needed
+- Für jedes Rollo wird ein ESP-32 micro Kontroller benötigt, ein 28BYJ-48 5vdc Schrittmotor mit Kontroller, ein paar Dupond Kabel und ein 5v Steckernetzteil mit Micro USB Anschluss
 
 - ESP-32: https://amzn.to/3uuozcW
-- Stepper motor with controller: https://amzn.to/3FgGmcW
-- OPTIONAL - Mini stepper motor controller: https://amzn.to/3Bu9mfZ
-- Any 5v power supply with micro usb connector
+- Schrittmotor mit Kontroller: https://amzn.to/3FgGmcW
+- OPTIONAL - Mini Schrittmotorkontroller: https://amzn.to/3Bu9mfZ
+- Ein 5v Steckernetzteil mit Micro USB Anschluss
 
-## Connection schematic
+## Verbindungsschematik
 
-The following pictures shows the wireing diagram for the basic controller, which mostly comes with the stepper motor.
+Das folgende Bild zeigt schematisch die Verbindung zwischen ESP-32 und Schrittmotorkontroller
 
 <pre><img src="schematics/schematic.png" width="400px"></pre>
 
-## Installation and setup
+## Installation und Start
 
 [Installation guide](https://github.com/danieldownload/mysmartrollo/wiki/Installation-guide)
 
@@ -79,5 +80,5 @@ The following pictures shows the wireing diagram for the basic controller, which
 
 
 
-## Donate
-If you would like to support the developer with a cup of coffee you can do that via [Paypal](https://www.paypal.com/donate/?hosted_button_id=XN85B8YSH7KBL)
+## Spende
+Wenn Du mich unterstützen möchtest, dann gib mir einen Kaffee aus :) [Paypal](https://www.paypal.com/donate/?hosted_button_id=XN85B8YSH7KBL)
