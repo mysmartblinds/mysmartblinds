@@ -43,7 +43,7 @@ While running, the system is virtually silent.
 - Timer for up/down movement for every weekday
 - Sleep Mode for ultra low energy consumption (only timer function is active)
 - Updates via web frontend
-- Factory reset via web frondend or hardware button
+- Factory reset via web frontend or hardware button
 
 ## Control
 

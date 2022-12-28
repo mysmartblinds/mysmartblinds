@@ -28,7 +28,7 @@ unterstützt, ein Smartphone ist dafür ideal. Nach Abschluss der Einrichtung k�
 - Links/Rechts Modus (Software Schalter)
 - präzise Positionierung
 - Standard Hardware
-- Einfache Intergration in Sprachassistenten
+- Einfache Integration in Sprachassistenten
 
 ## Kommunikation
 
@@ -44,7 +44,7 @@ unterstützt, ein Smartphone ist dafür ideal. Nach Abschluss der Einrichtung k�
 - Timer für tägliche Runter/Hoch Einstellung
 - Schlaf Modus für Low Power Betrieb
 - Updates per Web Frontend
-- Factory reset per Web Wrondend oder Hardware Taster
+- Factory reset per Web Frontend oder Hardware Taster
 
 ## Steuerung
 
