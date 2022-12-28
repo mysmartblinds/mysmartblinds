@@ -65,6 +65,9 @@ While running, the system is virtually silent.
 - OPTIONAL - Mini stepper motor controller: https://amzn.to/3Bu9mfZ
 - Any 5v power supply with micro usb connector
 
+You can also buy plug&play solution which includes a 3d printed drive enclosure, mini stepper driver and ESP-32 adapter, a plug&play solution.
+[Drive enclosure with stepper driver and ESP-32 adapter](https://www.etsy.com/de/listing/1120088196/wifi-wlan-rollo-innenrollo-doppelrollo?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=rollo+antrieb&ref=sr_gallery-1-1&edd=1&organic_search_click=1)
+
 ## Connection schematic
 
 The following pictures shows the wireing diagram for the basic controller, which mostly comes with the stepper motor.
