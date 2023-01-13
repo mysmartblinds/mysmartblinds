@@ -3,7 +3,8 @@
 Fast jeder hat Innenrollos in der Wohnung, Sichtschutzrollos, Verdunkelungsrollos, Doppelrollos... Standardmäßig wird so ein Rollo über eine Perlenkette runtergelassen und hochgezogen. Im täglichen Gebrauch ist es nervig, speziell wenn man lange 
 Gardienen, ein Bett oder einen Tisch davor hat. Aus diesem Grund habe ich ein System erstellt, welches meine vorhanden einfachen Rollos automatisiert.
 
-Das System ersetzt den Perlenkettenantrieb per Plug&Play mit dem neuen Antrieb. Die Installation dauert 1 Minute. Die Einrichtung erfolgt komplett per Webbrowser und ist super einfach. Das Endgerät ist dabei egal, solange es eine Wlan Verbindung 
+Das System ersetzt den Perlenkettenantrieb per Plug&Play mit dem neuen Antrieb. Die Installation dauert nur 1 Minute. Die Einrichtung erfolgt komplett per Webbrowser und ist super einfach. Das Endgerät ist dabei egal, solange es eine Wlan 
+Verbindung 
 unterstützt, ein Smartphone ist dafür ideal. Nach Abschluss der Einrichtung können die Rollos per Klick am Smartphone, per Sprachsteuerung oder einfach zeitgesteuert runter und hoch gefahren werden.
 
 
