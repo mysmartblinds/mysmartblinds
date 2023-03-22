@@ -1,4 +1,4 @@
-# Welcome to mysmartrollo - let the sun wake you up
+# Welcome to mysmartblinds - let the sun wake you up
 
 Almost everyone is using window blinds / rollos at the insides of windows. The default method to move blinds like that up and down is via a pearl chain. That can be annoying in everyday use, especially if there are curtains, beds or tables close to the window. I created a system, which can automate your blinds or rollos, easy manually control is of course possible as well.
 
